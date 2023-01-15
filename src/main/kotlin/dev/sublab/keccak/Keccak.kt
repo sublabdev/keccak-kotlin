@@ -19,11 +19,11 @@
 package dev.sublab.keccak
 
 /**
- * An interface for Keccak
+ * An interface for [Keccak]
  */
 interface Keccak {
     /**
-     * Returns `ByteArray` encrypted as Keccak f1600
+     * Returns [ByteArray] encrypted as Keccak f1600
      */
     fun f1600(): ByteArray
 }
@@ -36,7 +36,7 @@ private class KeccakImpl(
 }
 
 /**
- * ByteArray to Keccak converter
+ * [ByteArray] to [Keccak] converter
  */
 val ByteArray.keccak: Keccak
     get() = KeccakImpl(this)
