@@ -57,8 +57,8 @@ implementation 'dev.sublab:keccak-kotlin:1.0.0'
 ```
 
 ## Documentation
-
-- Our GitBook: [https://docs.sublab.dev/kotlin-libraries/keccak-kotlin/](https://docs.sublab.dev/kotlin-libraries/keccak-kotlin/)
+https://docs.sublab.dev/kotlin-libraries/keccak
+- Our GitBook: [https://docs.sublab.dev/kotlin-libraries/keccak/](https://docs.sublab.dev/kotlin-libraries/keccak/)
 - API reference: [https://api-reference.sublab.dev/keccak-kotlin/](https://api-reference.sublab.dev/keccak-kotlin/)
 
 ## Contributing
