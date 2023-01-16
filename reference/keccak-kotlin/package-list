@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dev.sublab.keccak////PointingToDeclaration/keccak-kotlin/dev.sublab.keccak/index.html
+$dokka.location:dev.sublab.keccak/Keccak///PointingToDeclaration/keccak-kotlin/dev.sublab.keccak/-keccak/index.html
+$dokka.location:dev.sublab.keccak/Keccak/f1600/#/PointingToDeclaration/keccak-kotlin/dev.sublab.keccak/-keccak/f1600.html
+$dokka.location:dev.sublab.keccak/KeccakKt///PointingToDeclaration/keccak-kotlin/dev.sublab.keccak/-keccak-kt/index.html
+$dokka.location:dev.sublab.keccak/KeccakKt/getKeccak/kotlin.ByteArray#/PointingToDeclaration/keccak-kotlin/dev.sublab.keccak/-keccak-kt/get-keccak.html
+dev.sublab.keccak
+
