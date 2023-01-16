@@ -12,7 +12,7 @@
 [![Telegram channel](https://img.shields.io/badge/chat-telegram-green.svg?logo=telegram)](https://t.me/sublabsupport)
 [![GitHub License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0)
 
-# Sublab's Common Kotlin library
+# Sublab's Keccak Kotlin library
 
 This is a Kotlin repository which contains full rewrite of [Rust's keccak algorithm](https://github.com/RustCrypto/sponges).
 
